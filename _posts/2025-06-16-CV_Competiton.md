@@ -9,9 +9,6 @@ mermaid: true
 math: true
 ---
 
-
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # 📄 Document Type Classification 대회: 실무 문서 분류 AI 모델 개발 가이드
 
 ## 📦 사용하는 python package
